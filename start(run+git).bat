@@ -1,3 +1,2 @@
-./run
-
-./push
+CALL run.bat
+CALL push.bat
