@@ -4,7 +4,3 @@ REM Add custom program arguments {such as nogui} to this file in the next line b
 REM  pass them to this script directly
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.18.2-40.1.54/win_args.txt -nogui %*
 pause
-git add .
-git commit -m "SERVER CLOSED: %DATE%"
-git push -u origin main
-pause
