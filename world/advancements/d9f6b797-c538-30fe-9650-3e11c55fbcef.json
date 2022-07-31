@@ -1,0 +1,33 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2022-07-16 20:23:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-07-16 20:24:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2022-07-16 20:24:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2022-07-16 20:24:36 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-07-16 20:23:17 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
