@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-08-01 16:10:45 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-07-16 00:15:33 +0300"
@@ -902,6 +908,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2022-07-18 23:07:54 +0300"
+    },
+    "done": true
+  },
+  "compactmachines:recipes/compactmachines/personal_shrinking_device": {
+    "criteria": {
+      "picked_up_ender_eye": "2022-08-01 16:18:14 +0300"
     },
     "done": true
   },
@@ -1079,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-08-01 15:33:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-07-15 23:54:10 +0300"
@@ -1187,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2022-08-01 16:10:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-07-18 18:09:45 +0300"
@@ -1202,6 +1226,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-07-17 17:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-08-01 16:10:27 +0300"
     },
     "done": true
   },
@@ -1904,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-08-01 16:10:45 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-07-16 01:03:53 +0300"
@@ -2312,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-08-01 16:10:45 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2022-07-16 01:04:15 +0300"
@@ -2342,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-08-01 17:47:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-07-16 01:04:17 +0300"
@@ -2351,6 +2399,12 @@
   "create:recipes/create.palettes/cut_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-07-16 10:53:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-08-01 15:04:13 +0300"
     },
     "done": true
   },
@@ -2864,6 +2918,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-08-01 15:15:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-01 15:34:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-16 00:02:32 +0300"
@@ -3274,6 +3340,7 @@
       "minecraft:witch": "2022-07-30 18:13:56 +0300",
       "minecraft:wither_skeleton": "2022-07-16 10:17:34 +0300",
       "minecraft:ender_dragon": "2022-07-17 19:03:27 +0300",
+      "minecraft:shulker": "2022-08-01 15:04:26 +0300",
       "minecraft:piglin": "2022-07-16 01:16:14 +0300",
       "minecraft:enderman": "2022-07-16 00:43:39 +0300",
       "minecraft:silverfish": "2022-07-16 12:45:36 +0300",
@@ -3388,6 +3455,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-07-16 01:04:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-08-01 16:10:27 +0300"
     },
     "done": true
   },
@@ -4398,6 +4471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-08-01 16:10:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-07-30 19:38:55 +0300"
@@ -4503,6 +4582,12 @@
   "create:recipes/create.palettes/polished_cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-16 00:18:06 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-08-01 18:14:53 +0300"
     },
     "done": true
   },
@@ -5028,6 +5113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-08-01 15:04:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-07-16 10:12:15 +0300"
@@ -5327,6 +5418,12 @@
       "has_stone": "2022-07-18 01:41:37 +0300"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/ragdoll.png": "2022-08-01 16:13:47 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
